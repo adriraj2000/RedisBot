@@ -1,0 +1,7 @@
+langchain
+gdown
+redis==4.5.3
+numpy
+openai
+pandas
+python-dotenv
